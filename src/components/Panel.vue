@@ -18,27 +18,27 @@ export default {
         return {
             icons: [
                 {
-                    imgPath: require('../assets/img/buy-comics-digital-comics.png'),
+                    imgPath: require('@/assets/img/buy-comics-digital-comics.png'),
                     alt: 'Digital Comics',
                     title: 'Digital Comics'
                 },
                 {
-                    imgPath: require('../assets/img/buy-comics-merchandise.png'),
+                    imgPath: require('@/assets/img/buy-comics-merchandise.png'),
                     alt: 'DC Merchandise',
                     title: 'DC Merchandise'
                 },
                 {
-                    imgPath: require('../assets/img/buy-comics-subscriptions.png'),
+                    imgPath: require('@/assets/img/buy-comics-subscriptions.png'),
                     alt: 'Subscription',
                     title: 'Subscription'
                 },
                 {
-                    imgPath: require('../assets/img/buy-comics-shop-locator.png'),
+                    imgPath: require('@/assets/img/buy-comics-shop-locator.png'),
                     alt: 'locator',
                     title: 'Comic shop locator'
                 },
                 {
-                    imgPath: require('../assets/img/buy-dc-power-visa.svg'),
+                    imgPath: require('@/assets/img/buy-dc-power-visa.svg'),
                     alt: 'Visa card',
                     title: 'Dc power visa'
                 }
